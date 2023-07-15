@@ -1,8 +1,2 @@
-# ip_web
-# ip_web
-# ip_web
-# ip_web
-# ip_web
-# ip_web
-# ip_web
-# ip_web
+# ip_web　produced by JCCA
+GUIの変更
